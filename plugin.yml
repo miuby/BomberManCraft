@@ -1,0 +1,13 @@
+name: BomberManCraft
+main: fr.Toteltwent.BomberManCraft.Main
+version: 1.0.1
+load: POSTWORLD
+commands:
+  Bomber:
+    description: Plugin BomberManCraft
+    usage: "Usage : /bomber <start:stop>"
+    permission: BomberManCraft.Bomber
+
+permissions:
+  BomberManCraft.Bomber:
+    default: op

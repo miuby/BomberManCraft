@@ -1,0 +1,7 @@
+location:
+  world: "WorldName"
+  x: 0.5
+  y: 50
+  z: 0.5
+size: 21
+player: 4
